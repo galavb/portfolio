@@ -1,6 +1,6 @@
 # portfolio
 Web Dev Portfolio
-You can click on the links below to view my portfolio and work done </br></br>
+You can click on the links below to view my portfolio and some work we've done </br></br>
 **ECommerce**
 - https://www.milltire.ca/
 - http://www.edgehair.co.nz/
