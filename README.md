@@ -3,7 +3,7 @@ Web Dev Portfolio
 You can click on the links below to view some work I've done </br></br>
 Book a consultation with me: https://galav.youcanbook.me
 
-**General Websites**
+**Wordpress Websites**
 - https://www.streamvr.co.in/
 - https://savgen.com
 - https://lexaquila.org
