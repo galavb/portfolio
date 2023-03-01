@@ -31,6 +31,8 @@ Book a consultation with me: https://galav.youcanbook.me
 </br>Book a consultation with me: https://galav.youcanbook.me
 
 **Webflow**
+- https://www.copysymbol.net/
+- https://codeeqr.com/
 - https://alfangroup.com/
 - https://www.jibble.io
 - https://smarttrades.ai
