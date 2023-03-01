@@ -15,7 +15,7 @@ Book a consultation with me: https://galav.youcanbook.me
 - https://toolsdragon.xyz/
 - https://www.unboxbasics.com/
 - https://interviewsos.com/
-</br>Book a consultation with me: https://galav.youcanbook.me
+
 
 **ECommerce**
 - https://www.milltire.ca/
@@ -28,7 +28,7 @@ Book a consultation with me: https://galav.youcanbook.me
 - https://moonlightconcept.com/
 - https://www.tyresdeal.com.au/
 - https://lfs.co.bw/
-</br>Book a consultation with me: https://galav.youcanbook.me
+
 
 **Webflow**
 - https://www.copysymbol.net/
