@@ -27,7 +27,6 @@ Book a consultation with me: https://galav.youcanbook.me
 - https://19sides.co.in
 - https://drivingtests.com.au
 - https://ijazmedia.com/
-- 
 - https://www.unboxbasics.com/
 - https://interviewsos.com/
 
