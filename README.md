@@ -12,7 +12,6 @@ Book a consultation with me: https://galav.youcanbook.me
 - https://www.roninsurgical.com
 - https://www.yourchargingsolution.com
 - https://callapp-homepage-985a7c.webflow.io
-- https://www.palantir.com/
 - https://markforged.com/
 
 **Wordpress Websites**
